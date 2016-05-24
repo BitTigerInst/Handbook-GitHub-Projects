@@ -7,11 +7,15 @@
 
 - http://shields.io/
 
-
 **About Screenshot**
 
 - iOS: http://mockuphone.com/
 - Android: https://developer.android.com/distribute/tools/promote/device-art.html
+
+**About Demo GIF**
+
+- Cross-platforms: https://ffmpeg.org/
+- OS X: https://github.com/dergachev/screengif
 
 **About License**
 
