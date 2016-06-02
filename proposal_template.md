@@ -20,7 +20,8 @@ Based on our experiences on web development and descriptions metioned above, we 
 | 2016/02/25  | 2016/02/29  | User Manual Writing and Presentation Making  |
 
 ## Resource
-[BitTiger Project: AppStore - Crawler](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
+- [BitTiger Project: AppStore - Crawler](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
+- [Awesome Resource](https://www.google.com/)
 
 ## Language & Framework
 Python
