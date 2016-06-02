@@ -13,11 +13,11 @@ Use securing confined his shutters. Delightful as he it acceptance an solicitude
 ### Time Schedule
 Use securing confined his shutters. Delightful as he it acceptance an solicitude discretion reasonably. Carriage we husbands advanced an perceive greatest. Totally dearest expense on demesne ye he.
 
-| Start  | End | Goals |
-| ------------- | ------------- | ------------- |
-| 02/01/16  | 02/07/16  | Project Selection, Plan Discussion, and Proposal Draft Writing |
-| 02/08/16  | 02/24/16  | System Design, Resource Discovery, Project Implementation, Document Writing  |
-| 02/25/16  | 02/29/16  | User Manual Writing and Presentation Making  |
+| Stage | Start  | End | Goals |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | 02/01/16  | 02/07/16  | Project Selection, Plan Discussion, and Proposal Draft Writing |
+| 2 | 02/08/16  | 02/24/16  | System Design, Resource Discovery, Project Implementation, Document Writing  |
+| 3 | 02/25/16  | 02/29/16  | User Manual Writing and Presentation Making  |
 
 ## Resource
 - [BitTiger Project: AppStore - Crawler](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
