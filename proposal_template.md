@@ -32,7 +32,8 @@ See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 - description: One sentence description for your awesome project.
 - stack: angular, firebase
 
-> 我们有一个爬虫自动爬 `Project Information` 部分的内容，生成项目统计数据。为了让系统方便识别数据，建议`category`和`stack`部分选项从下面列举中的选项选取。
+> **Note:** 我们使用[爬虫](https://github.com/hackjustu/Project-Markdown-Table-Generator)爬取 `Project Information` 部分的内容并生成项目统计数据。为了方便系统识别，建议`category`和`stack`部分使用下面列举的选项。 如果发现需要别的选项不在列表中，请和我们联系^^
+>
 >**category options:** 
 >full stack, big data, mobile
 >
