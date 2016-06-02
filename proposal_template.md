@@ -23,12 +23,6 @@ Use securing confined his shutters. Delightful as he it acceptance an solicitude
 - [BitTiger Project: AppStore - Crawler](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
 - [Awesome Resource](https://www.google.com/)
 
-## Development Guildlines (Optional)
-- __Modularity.__ Following the principle _"loose coupling and high cohesion"_, each module should be standalone.
-
-- __Minimalism.__ Each module should be kept short, simple, and concise. Every piece of code should be transparent upon first reading. 
-- __Easy extensibility.__ New modules (as new classes and functions) are should be simply add, and existing modules should be extended easily.
-
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
