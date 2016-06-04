@@ -5,14 +5,14 @@
 ### How
 - Description
 - Plan
-  - Todo
+  - Todo List
   - Time Schedule
 - Resource
 - License
 - Project Information
 
 ### Template
-[proposal_template](.proposal_template.md)
+- [proposal_template](.proposal_template.md)
 
 ------
 ## Readme
@@ -20,3 +20,18 @@
 - After the project
 
 ### How
+- Description
+- Demo
+  - Screenshot
+  - GIF
+  - Link
+  - ...
+- Usage
+- Components/Structure
+- Team
+- Acknowledgement
+- License
+
+### Project Information
+### Template
+- [readme_template](https://github.com/hackjustu/Github-Ranking-FrontEnd)
