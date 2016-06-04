@@ -15,7 +15,6 @@
 ### Template
 - [proposal_template](./proposal_template.md)
 
-------
 ## Readme
 ### When
 - After the project
