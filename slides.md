@@ -1,4 +1,5 @@
 ## Proposal
+
 ### When
 - Before the project
 
@@ -12,7 +13,7 @@
 - Project Information
 
 ### Template
-- [proposal_template](.proposal_template.md)
+- [proposal_template](./proposal_template.md)
 
 ------
 ## Readme
@@ -31,7 +32,10 @@
 - Team
 - Acknowledgement
 - License
+- Project Information
 
-### Project Information
 ### Template
 - [readme_template](https://github.com/hackjustu/Github-Ranking-FrontEnd)
+
+## Other Resource
+- [Resource](./README.md)
