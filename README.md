@@ -20,3 +20,8 @@
 **About License**
 
 - https://github.com/blog/1530-choosing-an-open-source-license
+
+
+**About Markdown Syntax**
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
