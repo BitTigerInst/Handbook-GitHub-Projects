@@ -1,4 +1,4 @@
-## Proposal
+## 1. Proposal
 
 ### When
 - Before the project
@@ -15,7 +15,7 @@
 ### Template
 - [proposal_template](./proposal_template.md)
 
-## Readme
+## 2. Readme
 ### When
 - After the project
 
@@ -36,5 +36,5 @@
 ### Template
 - [readme_template](https://github.com/hackjustu/Github-Ranking-FrontEnd)
 
-## Other Resource
+## 3. Other Resource
 - [Resource](./README.md)
