@@ -37,4 +37,5 @@
 - [readme_template](https://github.com/hackjustu/Github-Ranking-FrontEnd)
 
 ## 3. Other Resource
-- [Resource](./Resource.md)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
+- [Resource Summary](./Resource.md)
