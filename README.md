@@ -37,4 +37,4 @@
 - [readme_template](https://github.com/hackjustu/Github-Ranking-FrontEnd)
 
 ## 3. Other Resource
-- [Resource](./README.md)
+- [Resource](./Resource.md)
